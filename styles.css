@@ -11,3 +11,15 @@ body{
   color:blue;
   padding: 12px;
 }
+
+.new_class{
+  padding: 40px;
+  margin: 2px;
+  font-size: 20px;
+}
+
+.new_class h1{
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32;
+}
